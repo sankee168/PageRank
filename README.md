@@ -1,1 +1,2 @@
-# PageRank
+This project is about implementing iterative mapreduce program to calculuate the pagerank using hadoop cluster and is done as a part of Cloud Computing and Storage course at University of Florida.
+Clear description is given in [wiki](https://github.com/sankee168/PageRank/wiki).

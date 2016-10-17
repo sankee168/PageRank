@@ -17,5 +17,4 @@ target
 *.jar
 *.war
 *.ear
-src/main/resources/
 src/test/
